@@ -1,0 +1,14 @@
+# SSMS / Visual Studio
+*.ssmssqlproj
+*.suo
+*.user
+.vs/
+
+# Backups e arquivos do banco
+*.bak
+*.mdf
+*.ldf
+
+# Sistema
+.DS_Store
+Thumbs.db
