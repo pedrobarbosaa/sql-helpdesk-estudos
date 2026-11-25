@@ -181,4 +181,4 @@ Durante o estudo, também uso de pesquisas na internet e em documentações para
 ## 👤 Resoluções
 
 **Pedro Henrique de Sousa Barbosa**
-[LinkedIn](https://www.linkedin.com/in/<www.linkedin.com/in/pedrohenriquedesousa>) · [GitHub](https://github.com/<https://github.com/pedrobarbosaa>)
+[LinkedIn](https://www.linkedin.com/in/pedrohenriquedesousa) · [GitHub](https://github.com/pedrobarbosaa)
