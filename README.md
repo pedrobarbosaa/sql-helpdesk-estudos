@@ -165,7 +165,7 @@ Minhas resoluções comentadas: [`solucoes/`](solucoes).
 
 ## 📈 Progresso
 
-- [x] 01 · [ ] 02 · [ ] 03 · [ ] 04 · [ ] 05
+- [x] 01 · [x] 02 · [ ] 03 · [ ] 04 · [ ] 05
 - [ ] 06 · [ ] 07 · [ ] 08 · [ ] 09 · [ ] 10
 
 ## 🤖 Sobre a criação deste material
